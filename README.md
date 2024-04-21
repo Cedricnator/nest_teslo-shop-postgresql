@@ -8,12 +8,23 @@
 
 ## Description
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+Testlo shop CRUD, with postgreSQL[By Docker image], pagination, and much more!!!
 
 ## Installation
 
 ```bash
 $ yarn install
+```
+
+## Database 
+
+```bash
+$ docker compose up 
+```
+or detached mode
+
+```bash
+$ docker compose up -d 
 ```
 
 ## Running the app
